@@ -1,6 +1,12 @@
 pddp-mountains
 ==============================
 
+This repository is currently under construction. 
+
+The working repository for the egusphere-2024-2805 preprint (https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2805/#discussion) is: https://github.com/mgironamata/upper-indus-prec-bc.git
+
+==============================
+
 probabilistic downscaling of daily precipitation in mountains
 
 Project Organization
